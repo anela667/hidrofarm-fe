@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
-import Splash from "./Splash";
+import Splash from "./splash";
 import Register from "./Register";
 import Login from "./Login";
 import Home from "./Home";
