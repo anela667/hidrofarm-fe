@@ -42,7 +42,7 @@
 }
 @font-face {
   font-family: "HelveticaNeue";
-  src: url("./HelveticaNeueRoman.otf") format("opentype");
+  src: url("/HelveticaNeueRoman.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
